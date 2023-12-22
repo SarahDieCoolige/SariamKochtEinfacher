@@ -1,12 +1,42 @@
-# Sonntagsrezepte
+# Sonntagsrezepte 
 
-### 27.03.2021 Chicken Fingers mit Sauerrahmdip
+- [Sonntagsrezepte](#sonntagsrezepte)
+  - [Chicken Fingers mit Sauerrahmdip (27.03.2021)](#chicken-fingers-mit-sauerrahmdip-27032021)
+  - [Gnocchi (18.04.2021)](#gnocchi-18042021)
+  - [Hähnchen Ananas Curry (20.06.2021)](#hähnchen-ananas-curry-20062021)
+  - [Königsberger Könis (31.08.2021)](#königsberger-könis-31082021)
+  - [Schweinefilet mit Bacon in Currysahne (23.09.2021)](#schweinefilet-mit-bacon-in-currysahne-23092021)
+  - [Cevis (06.11.2021)](#cevis-06112021)
+  - [Mirige Nachos mit Käse überbacken (16.12.2021 und 22.01.2023)](#mirige-nachos-mit-käse-überbacken-16122021-und-22012023)
+  - [Cooliges Gyros Rezept für Sonntag :) (23.02.2022)](#cooliges-gyros-rezept-für-sonntag--23022022)
+  - [Zürcher Geschnetzeltes (02.06.2022)](#zürcher-geschnetzeltes-02062022)
+  - [Nudelsalat (23.06.2022 und 25.01.2023)](#nudelsalat-23062022-und-25012023)
+  - [Hähnchen Gemüse Pfanne (13.07.2022)](#hähnchen-gemüse-pfanne-13072022)
+  - [Mozzarella-Hähnchen :) (18.08.2022)](#mozzarella-hähnchen--18082022)
+  - [Gefüllte Zucchini Schiffechen mit Hackfleisch (01.09.2022)](#gefüllte-zucchini-schiffechen-mit-hackfleisch-01092022)
+  - [Kartoffelgratin Rezept :) (13.09.2022)](#kartoffelgratin-rezept--13092022)
+  - [Kohlrabigemüse mit Kartoffeln und Schnitzen (21.10.2022)](#kohlrabigemüse-mit-kartoffeln-und-schnitzen-21102022)
+  - [Schweinefilet mit Bacon in Currysahne (10.11.2022)](#schweinefilet-mit-bacon-in-currysahne-10112022)
+  - [Erbsensuppe Mama (24.11.2022)](#erbsensuppe-mama-24112022)
+  - [Mirige Weihnachtsrouladen (15.12.2022)](#mirige-weihnachtsrouladen-15122022)
+  - [Hackbraten ala Lea (02.01.2023)](#hackbraten-ala-lea-02012023)
+  - [Knoblauchgratin \<3 (05.03.2023)](#knoblauchgratin-3-05032023)
+  - [Paprika Sahne Hähnchen OHNE FIX (27.04.2023)](#paprika-sahne-hähnchen-ohne-fix-27042023)
+  - [Kohlrabigemüse mit Fleischpflanzerl - SariamKochtEinfacher (06.07.2023)](#kohlrabigemüse-mit-fleischpflanzerl---sariamkochteinfacher-06072023)
+  - [Toskanabällchen mit Reis (20.07.2023)](#toskanabällchen-mit-reis-20072023)
+  - [Cevipfanne mit Pommes (23.08.2023)](#cevipfanne-mit-pommes-23082023)
+  - [WeihnachtsMiriRezept - Pasta mit Lachs Sahnesauce (21.10.2023)](#weihnachtsmirirezept---pasta-mit-lachs-sahnesauce-21102023)
+  - [Wikingertopf - Sonntagskochen mit Miri und Sari (01.11.2023)](#wikingertopf---sonntagskochen-mit-miri-und-sari-01112023)
+
+---
+
+## Chicken Fingers mit Sauerrahmdip (27.03.2021)
 - [Rezept auf gusto.at](https://www.gusto.at/rezepte/cornflakes-chicken-fingers)
 - [Rezept auf chefkoch.de](https://www.chefkoch.de/rezepte/1253481230581003/Dill-Sauerrahm-Dip.html)
 
 ---
 
-### 18.04.2021 Gnocchi
+## Gnocchi (18.04.2021)
 
 **Sari:**
 Welches Rezept wir genommen haben, weiß ich leider nicht mehr^^
@@ -15,13 +45,13 @@ Welches Rezept wir genommen haben, weiß ich leider nicht mehr^^
 - [Rezept auf kochbar.de](https://www.kochbar.de/rezept/462988/Hackfleisch-Gnocchi-Auflauf.html)
 - [Rezept auf chefkoch.de](https://www.chefkoch.de/rezepte/535801150536840/Gnocchi-Auflauf-mit-Hackfleischsauce.html)
 
-### 20.06.2021 Hähnchen Ananas Curry
+## Hähnchen Ananas Curry (20.06.2021)
 
 - [Rezept auf chefkoch.de](https://www.chefkoch.de/rezepte/1069361212490339/Haehnchen-Ananas-Curry-mit-Reis.html?portionen=4)
 
 ---
 
-### 31.08.2021 Königsberger Könis
+## Königsberger Könis (31.08.2021)
 
 *Okay Schatz, das ist unser Rezept :)*
 
@@ -71,7 +101,7 @@ Man kann die Klopse, falls die kalt geworden sind, jetzt einfach in die Soße tu
 
 ---
 
-### 23.09.2021 Schweinefilet mit Bacon in Currysahne
+## Schweinefilet mit Bacon in Currysahne (23.09.2021)
 
 **Sari:** 
 Haben wir hier das erste mal Emmi entdeckt?
@@ -80,7 +110,7 @@ Haben wir hier das erste mal Emmi entdeckt?
 
 ---
 
-### 06.11.2021 Cevis
+## Cevis (06.11.2021)
 
 **Sari:** 
 Hier hast du das allererste mal Cevis mit mir gemacht und gelernt, wie man die selber macht^^ Wir haben die an einem Samstag gekocht :) 
@@ -90,7 +120,7 @@ Ich hab allerdings das Rezept nicht mehr in meinem ähm.. Kochbuch gefunden, abe
 
 ---
 
-### 16.12.2021 und 22.01.2023 Mirige Nachos mit Käse überbacken
+## Mirige Nachos mit Käse überbacken (16.12.2021 und 22.01.2023)
 
 **Sari:** 
 Wow.. das war noch 2021. Das kommt mir gar nicht so lang her vor..
@@ -103,7 +133,7 @@ Wow.. das war noch 2021. Das kommt mir gar nicht so lang her vor..
 
 ---
 
-### 23.02.2022 Cooliges Gyros Rezept für Sonntag :)
+## Cooliges Gyros Rezept für Sonntag :) (23.02.2022)
 - [Rezept auf chilirezept.de](https://www.chilirezept.de/rezepte/gyros-selber-machen-rezept/)
 
 *Hey Lieblingsmiri :)*
@@ -118,32 +148,32 @@ Wow.. das war noch 2021. Das kommt mir gar nicht so lang her vor..
 
 ---
 
-### 02.06.2022 Zürcher Geschnetzeltes
+## Zürcher Geschnetzeltes (02.06.2022)
 - [Rezept auf emmikochteinfach.de](https://emmikochteinfach.de/zuercher-geschnetzeltes-mit-haehnchen/)
 
 ---
 
-### 23.06.2022 und 25.01.2023 Nudelsalat
+## Nudelsalat (23.06.2022 und 25.01.2023)
 - [Rezept auf chefkoch.de](https://www.chefkoch.de/rezepte/2917311444051618/Bester-und-leckerster-Nudelsalat.html)
 
 ---
 
-### 13.07.2022 Hähnchen Gemüse Pfanne
+## Hähnchen Gemüse Pfanne (13.07.2022)
 - [Rezept auf chefkoch.de](https://www.chefkoch.de/rezepte/1737351282746668/Haehnchen-Gemuese-Pfanne.html)
 - Dazu Gnocchis
 
 ---
 
-### 18.08.2022 Mozzarella-Hähnchen :)
+## Mozzarella-Hähnchen :) (18.08.2022)
 - [Rezept auf daskochrezept.de](https://www.daskochrezept.de/rezepte/mozzarella-haehnchen-das-weltbeste-rezept?portions=2)
 
 
-### 01.09.2022 Gefüllte Zucchini Schiffechen mit Hackfleisch
+## Gefüllte Zucchini Schiffechen mit Hackfleisch (01.09.2022)
 - [Rezept auf emmikochteinfach.de](https://emmikochteinfach.de/gefuellte-zucchini-schiffchen-hackfleisch/)
 
 ---
 
-### 13.09.2022 Kartoffelgratin Rezept :)
+## Kartoffelgratin Rezept :) (13.09.2022)
 - [Rezept auf gutekueche.at](https://www.gutekueche.at/kartoffelgratin-rezept-4543)
 
 **Änderungen:**
@@ -157,12 +187,12 @@ Wow.. das war noch 2021. Das kommt mir gar nicht so lang her vor..
 
 ---
 
-### 21.10.2022 Kohlrabigemüse mit Kartoffeln und Schnitzen
+## Kohlrabigemüse mit Kartoffeln und Schnitzen (21.10.2022)
 - [Rezept auf chefkoch.de](https://www.chefkoch.de/rezepte/513871147148871/Kohlrabigemuese-klassisch.html)
 
 ---
 
-### 10.11.2022 Schweinefilet mit Bacon in Currysahne
+## Schweinefilet mit Bacon in Currysahne (10.11.2022)
 
 **Sari:**
 Ich fand das so lecker und wollte das nochmal^^
@@ -172,7 +202,7 @@ Ich fand das so lecker und wollte das nochmal^^
 
 ---
 
-### 24.11.2022 Erbsensuppe Mama
+## Erbsensuppe Mama (24.11.2022)
 
 **Zutaten:**
 - Packung normale Erbsen (Tag vorher in Wasser einweichen) oder Schälerbsen (ohne einweichen)
@@ -203,7 +233,7 @@ Ich fand das so lecker und wollte das nochmal^^
 
 ---
 
-### 15.12.2022 Mirige Weihnachtsrouladen
+## Mirige Weihnachtsrouladen (15.12.2022)
 
 **Sari:**
 Freu mich schon :)
@@ -216,7 +246,7 @@ Dazu gibt es Klöße :)
 
 ---
 
-### 02.01.2023 Hackbraten ala Lea
+## Hackbraten ala Lea (02.01.2023)
 - 500g Hack
 - 1 Ei
 - 1 Zwiebel
@@ -233,7 +263,7 @@ Formen, in eine Backform und dann eine Stunde bei 160 Grad in den Ofen. Nach 40 
 ---
 
 
-### 05.03.2023 Knoblauchgratin <3
+## Knoblauchgratin <3 (05.03.2023)
 
 **Sari:**
 Das war auch in meinem Rezeptbuch. Nur falls du mal knoblauchig bist *grinse*
@@ -242,23 +272,23 @@ Das war auch in meinem Rezeptbuch. Nur falls du mal knoblauchig bist *grinse*
 
 ---
 
-### 27.04.2023 Paprika Sahne Hähnchen OHNE FIX
+## Paprika Sahne Hähnchen OHNE FIX (27.04.2023)
 - [Rezept auf einfachmalene.de](https://www.einfachmalene.de/paprika-sahne-haehnchen-ohne-fix/#recipe)
 
 ---
 
-### 06.07.2023 Kohlrabigemüse mit Fleischpflanzerl - SariamKochtEinfacher
+## Kohlrabigemüse mit Fleischpflanzerl - SariamKochtEinfacher (06.07.2023)
 - [Rezept auf emmikochteinfach.de](https://emmikochteinfach.de/kohlrabigemuese-mit-kartoffeln-und-moehren)
 - [Rezept auf emmikochteinfach.de](https://emmikochteinfach.de/klassische-frikadellen-rezept)
 
 ---
 
-### 20.07.2023 Toskanabällchen mit Reis
+## Toskanabällchen mit Reis (20.07.2023)
 - [Rezept auf einfachmalene.de](https://www.einfachmalene.de/saftige-hackfleischbaellchen-toskana-aus-dem-backofen/)
 
 ---
 
-### 23.08.2023 Cevipfanne mit Pommes
+## Cevipfanne mit Pommes (23.08.2023)
 
 **Sari:** 
 Ja, die war nicht so gut, aber du bekommst sie trotzdem *lächel*
@@ -267,7 +297,7 @@ Ja, die war nicht so gut, aber du bekommst sie trotzdem *lächel*
 
 ---
 
-### 21.10.2023 WeihnachtsMiriRezept - Pasta mit Lachs Sahnesauce
+## WeihnachtsMiriRezept - Pasta mit Lachs Sahnesauce (21.10.2023)
 
 **Sari:**
 Das haben wir nicht zusammen gekocht,oder? Wolltest du das haben? Bin ich gerade doof? *grinse*
@@ -276,9 +306,8 @@ Das haben wir nicht zusammen gekocht,oder? Wolltest du das haben? Bin ich gerade
 
 ---
 
-### 01.11.2023 Wikingertopf - Sonntagskochen mit Miri und Sari
+## Wikingertopf - Sonntagskochen mit Miri und Sari (01.11.2023)
 - [Rezept auf einfachmalene.de](https://www.einfachmalene.de/wikingertopf-einfach-selber-kochen/)
 
 *Dazu gibt es Kartoffeln :)*
-
 
