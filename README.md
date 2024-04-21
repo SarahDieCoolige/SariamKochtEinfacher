@@ -1,33 +1,36 @@
 # Sonntagsrezepte 
 
-- [Chicken Fingers mit Sauerrahmdip (27.03.2021)](#chicken-fingers-mit-sauerrahmdip-27032021)
-- [Gnocchi (18.04.2021)](#gnocchi-18042021)
-- [Hähnchen Ananas Curry (20.06.2021)](#hähnchen-ananas-curry-20062021)
-- [Königsberger Könis (31.08.2021)](#königsberger-könis-31082021)
-- [Schweinefilet mit Bacon in Currysahne (23.09.2021)](#schweinefilet-mit-bacon-in-currysahne-23092021)
-- [Cevis (06.11.2021)](#cevis-06112021)
-- [Mirige Nachos mit Käse überbacken (16.12.2021 und 22.01.2023)](#mirige-nachos-mit-käse-überbacken-16122021-und-22012023)
-- [Cooliges Gyros Rezept für Sonntag :) (23.02.2022)](#cooliges-gyros-rezept-für-sonntag--23022022)
-- [Zürcher Geschnetzeltes (02.06.2022)](#zürcher-geschnetzeltes-02062022)
-- [Nudelsalat (23.06.2022 und 25.01.2023)](#nudelsalat-23062022-und-25012023)
-- [Hähnchen Gemüse Pfanne (13.07.2022)](#hähnchen-gemüse-pfanne-13072022)
-- [Mozzarella-Hähnchen :) (18.08.2022)](#mozzarella-hähnchen--18082022)
-- [Gefüllte Zucchini Schiffechen mit Hackfleisch (01.09.2022)](#gefüllte-zucchini-schiffechen-mit-hackfleisch-01092022)
-- [Kartoffelgratin Rezept :) (13.09.2022)](#kartoffelgratin-rezept--13092022)
-- [Kohlrabigemüse mit Kartoffeln und Schnitzen (21.10.2022)](#kohlrabigemüse-mit-kartoffeln-und-schnitzen-21102022)
-- [Schweinefilet mit Bacon in Currysahne (10.11.2022)](#schweinefilet-mit-bacon-in-currysahne-10112022)
-- [Erbsensuppe Mama (24.11.2022)](#erbsensuppe-mama-24112022)
-- [Mirige Weihnachtsrouladen (15.12.2022)](#mirige-weihnachtsrouladen-15122022)
-- [Hackbraten ala Lea (02.01.2023)](#hackbraten-ala-lea-02012023)
-- [Knoblauchgratin \<3 (05.03.2023)](#knoblauchgratin-3-05032023)
-- [Paprika Sahne Hähnchen OHNE FIX (27.04.2023)](#paprika-sahne-hähnchen-ohne-fix-27042023)
-- [Kohlrabigemüse mit Fleischpflanzerl - SariamKochtEinfacher (06.07.2023)](#kohlrabigemüse-mit-fleischpflanzerl---sariamkochteinfacher-06072023)
-- [Toskanabällchen mit Reis (20.07.2023)](#toskanabällchen-mit-reis-20072023)
-- [Cevipfanne mit Pommes (23.08.2023)](#cevipfanne-mit-pommes-23082023)
-- [WeihnachtsMiriRezept - Pasta mit Lachs Sahnesauce (21.10.2023)](#weihnachtsmirirezept---pasta-mit-lachs-sahnesauce-21102023)
-- [Wikingertopf - Sonntagskochen mit Miri und Sari (01.11.2023)](#wikingertopf---sonntagskochen-mit-miri-und-sari-01112023)
+- [Sonntagsrezepte](#sonntagsrezepte)
+  - [Chicken Fingers mit Sauerrahmdip (27.03.2021)](#chicken-fingers-mit-sauerrahmdip-27032021)
+  - [Gnocchi (18.04.2021)](#gnocchi-18042021)
+  - [Hähnchen Ananas Curry (20.06.2021)](#hähnchen-ananas-curry-20062021)
+  - [Königsberger Könis (31.08.2021)](#königsberger-könis-31082021)
+  - [Schweinefilet mit Bacon in Currysahne (23.09.2021)](#schweinefilet-mit-bacon-in-currysahne-23092021)
+  - [Cevis (06.11.2021)](#cevis-06112021)
+  - [Mirige Nachos mit Käse überbacken (16.12.2021 und 22.01.2023)](#mirige-nachos-mit-käse-überbacken-16122021-und-22012023)
+  - [Cooliges Gyros Rezept für Sonntag :) (23.02.2022)](#cooliges-gyros-rezept-für-sonntag--23022022)
+  - [Zürcher Geschnetzeltes (02.06.2022)](#zürcher-geschnetzeltes-02062022)
+  - [Nudelsalat (23.06.2022 und 25.01.2023)](#nudelsalat-23062022-und-25012023)
+  - [Hähnchen Gemüse Pfanne (13.07.2022)](#hähnchen-gemüse-pfanne-13072022)
+  - [Mozzarella-Hähnchen :) (18.08.2022)](#mozzarella-hähnchen--18082022)
+  - [Gefüllte Zucchini Schiffechen mit Hackfleisch (01.09.2022)](#gefüllte-zucchini-schiffechen-mit-hackfleisch-01092022)
+  - [Kartoffelgratin Rezept :) (13.09.2022)](#kartoffelgratin-rezept--13092022)
+  - [Kohlrabigemüse mit Kartoffeln und Schnitzen (21.10.2022)](#kohlrabigemüse-mit-kartoffeln-und-schnitzen-21102022)
+  - [Schweinefilet mit Bacon in Currysahne (10.11.2022)](#schweinefilet-mit-bacon-in-currysahne-10112022)
+  - [Erbsensuppe Mama (24.11.2022)](#erbsensuppe-mama-24112022)
+  - [Mirige Weihnachtsrouladen (15.12.2022)](#mirige-weihnachtsrouladen-15122022)
+  - [Hackbraten ala Lea (02.01.2023)](#hackbraten-ala-lea-02012023)
+  - [Knoblauchgratin \<3 (05.03.2023)](#knoblauchgratin-3-05032023)
+  - [Paprika Sahne Hähnchen OHNE FIX (27.04.2023)](#paprika-sahne-hähnchen-ohne-fix-27042023)
+  - [Kohlrabigemüse mit Fleischpflanzerl - SariamKochtEinfacher (06.07.2023)](#kohlrabigemüse-mit-fleischpflanzerl---sariamkochteinfacher-06072023)
+  - [Toskanabällchen mit Reis (20.07.2023)](#toskanabällchen-mit-reis-20072023)
+  - [Cevipfanne mit Pommes (23.08.2023)](#cevipfanne-mit-pommes-23082023)
+  - [WeihnachtsMiriRezept - Pasta mit Lachs Sahnesauce (21.10.2023)](#weihnachtsmirirezept---pasta-mit-lachs-sahnesauce-21102023)
+  - [Wikingertopf - Sonntagskochen mit Miri und Sari (01.11.2023)](#wikingertopf---sonntagskochen-mit-miri-und-sari-01112023)
+  - [Chili Con Carne (03.03.2024)](#chili-con-carne-03032024)
+  - [Gnocchi-Spinat-Auflauf mit Hähnchen (1. Spinatfeiertag 21.04.2024)](#gnocchi-spinat-auflauf-mit-hähnchen-1-spinatfeiertag-21042024)
 
----
+
 
 ## Chicken Fingers mit Sauerrahmdip (27.03.2021)
 - [Rezept auf gusto.at](https://www.gusto.at/rezepte/cornflakes-chicken-fingers)
@@ -309,4 +312,20 @@ Das haben wir nicht zusammen gekocht,oder? Wolltest du das haben? Bin ich gerade
 - [Rezept auf einfachmalene.de](https://www.einfachmalene.de/wikingertopf-einfach-selber-kochen/)
 
 *Dazu gibt es Kartoffeln :)*
+
+---
+
+## Chili Con Carne (03.03.2024)
+- [Rezept auf emmikochteinfach.de](https://emmikochteinfach.de/chili-con-carne-rezept-schnell-und-einfach/)
+
+*Das dauert länger. Emmi schummelt^^*
+
+---
+
+## Gnocchi-Spinat-Auflauf mit Hähnchen (1. Spinatfeiertag 21.04.2024)
+- [Rezept auf chefkoch.de](https://www.chefkoch.de/rezepte/831281187765616/Gnocchi-Spinat-Auflauf-mit-Haehnchen-und-Curry.html)
+
+*Weniger Brühe sonst wird das zu flüssig :)*
+
+*Lachs könnte auch cool dazu sein^^*
 
