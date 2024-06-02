@@ -29,6 +29,7 @@
   - [Wikingertopf - Sonntagskochen mit Miri und Sari (01.11.2023)](#wikingertopf---sonntagskochen-mit-miri-und-sari-01112023)
   - [Chili Con Carne (03.03.2024)](#chili-con-carne-03032024)
   - [Gnocchi-Spinat-Auflauf mit Hähnchen (1. Spinatfeiertag 21.04.2024)](#gnocchi-spinat-auflauf-mit-hähnchen-1-spinatfeiertag-21042024)
+  - [Köttbullar - einfach selbst gemacht  (02.06.2024)](#köttbullar---einfach-selbst-gemacht--02062024)
 
 
 
@@ -329,3 +330,9 @@ Das haben wir nicht zusammen gekocht,oder? Wolltest du das haben? Bin ich gerade
 
 *Lachs könnte auch cool dazu sein^^*
 
+---
+
+## Köttbullar - einfach selbst gemacht  (02.06.2024)
+- [Rezept auf emmikochteinfach.de](https://emmikochteinfach.de/koettbullar)
+  
+*Dazu gibts heute Krokettis*
