@@ -30,6 +30,7 @@
   - [Chili Con Carne (03.03.2024)](#chili-con-carne-03032024)
   - [Gnocchi-Spinat-Auflauf mit Hähnchen (1. Spinatfeiertag 21.04.2024)](#gnocchi-spinat-auflauf-mit-hähnchen-1-spinatfeiertag-21042024)
   - [Köttbullar - einfach selbst gemacht  (02.06.2024)](#köttbullar---einfach-selbst-gemacht--02062024)
+  - [Chickenburger mit Cornflakes und selbstgemachter Soße  (01.12.2024)](#chickenburger-mit-cornflakes-und-selbstgemachter-soße--01122024)
 
 
 
@@ -336,3 +337,49 @@ Das haben wir nicht zusammen gekocht,oder? Wolltest du das haben? Bin ich gerade
 - [Rezept auf emmikochteinfach.de](https://emmikochteinfach.de/koettbullar)
   
 *Dazu gibts heute Krokettis*
+
+
+---
+
+## Chickenburger mit Cornflakes und selbstgemachter Soße  (01.12.2024)
+
+**Zutaten**
+  - Burger
+    - Buns
+    - Tomate
+    - Salat
+    - anderes Zeugs^^
+
+  - Für die Hähnchenbrust
+    - Cornflakes
+    - Mehl
+    - Eier
+    - Salz
+    - Pfeffer
+    - Hähnchenbrust
+    - Öl zum braten bzw frittieren
+      
+  - Soße
+    - 100 g Mayonnaise
+    - 1 Tl Senf
+    - 1/4 Tl Zwiebelpulver
+    - 1/4 Tl Knoblauchpulver
+    - Spritzer Zitronensaft
+    - mit Honig abschmecken
+    - Prise Salz und Pfeffer 
+
+
+**Brauchen wir hier viel Anleitung? Hmm..**
+
+- Fleisch
+  
+  Cornflakes klein stampfen. Dann das Fleisch erst im Mehl, dann im Ei und zum Schluss in den Conflakes wälzen. Das Mehl am esten vorher schon etwas salzen und pfeffern.
+
+- Soße
+
+  Einfach alles zusammen mixen und abschmecken :D
+
+
+*Jetzt nur noch braten, alles zusammenbauen und schon hat man die besten Chickenburger der Welt. Also nach dem Braten und zusammenbauen. Und die sind viel besser als die von McDondals^^*
+
+---
