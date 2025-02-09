@@ -31,6 +31,8 @@
   - [Gnocchi-Spinat-Auflauf mit Hähnchen (1. Spinatfeiertag 21.04.2024)](#gnocchi-spinat-auflauf-mit-hähnchen-1-spinatfeiertag-21042024)
   - [Köttbullar - einfach selbst gemacht  (02.06.2024)](#köttbullar---einfach-selbst-gemacht--02062024)
   - [Chickenburger mit Cornflakes und selbstgemachter Soße  (01.12.2024)](#chickenburger-mit-cornflakes-und-selbstgemachter-soße--01122024)
+  - [Pizza Burger  (09.02.2025)](#pizza-burger--09022025)
+  - [Cremige Hackfleisch-Pasta  (Machen wir bald mal)](#cremige-hackfleisch-pasta--machen-wir-bald-mal)
 
 
 
@@ -382,4 +384,64 @@ Das haben wir nicht zusammen gekocht,oder? Wolltest du das haben? Bin ich gerade
 
 *Jetzt nur noch braten, alles zusammenbauen und schon hat man die besten Chickenburger der Welt. Also nach dem Braten und zusammenbauen. Und die sind viel besser als die von McDondals^^*
 
+---
+
+## Pizza Burger  (09.02.2025)
+
+**Zutaten:**
+- 450 g Hackfleisch
+- 80 g Salami, fein gewürfelt
+- 30 g Parmesankäse, gerieben
+- 35 g rote Paprika, fein gewürfelt
+- 2 g italienische Gewürzmischung
+- 2 g Knoblauchpulver
+- 15 ml Olivenöl
+- 60 ml Pizzasauce
+- 100 g Mozzarellakäse, gerieben
+- 30 g dünne Salamischeiben
+- 15 g Knoblauchbutter
+- 4 Brioche Brötchen
+
+**Zubereitung**
+
+1. Das Rinderhackfleisch in einer Schüssel mit den gewürfelten Salamistücken, dem Parmesankäse, der grünen Paprika, der italienischen Gewürzmischung und dem Knoblauchpulver vermengen.
+2. Alles gut durchmischen, bis eine gleichmäßige Masse entsteht.
+3. Aus der Fleischmischung 4 gleich große Burger-Pattys formen.
+4. Das Olivenöl in einer großen Pfanne bei mittlerer Hitze erhitzen.
+5. Die Burger-Pattys darin von beiden Seiten für etwa 4-5 Minuten braten, bis sie durchgegart und außen knusprig sind.
+6. In den letzten Minuten des Bratens die Pizzasauce auf die Oberseite der Pattys geben und mit geriebenem Mozzarella bestreuen.
+7. Einen Deckel auf die Pfanne setzen und den Käse schmelzen lassen.
+8. Währenddessen die Brioche Brötchen halbieren und mit Knoblauchbutter bestreichen.
+9. Die Brötchenhälften in einer separaten Pfanne oder im Ofen leicht anrösten.
+10. Die Salamischeiben auf den geschmolzenen Mozzarella legen und die Burger auf die Brötchen setzen.
+
+---
+
+## Cremige Hackfleisch-Pasta  (Machen wir bald mal)
+
+**Diese cremige Hackfleisch-Pasta ist ein schnelles und herzhaftes Gericht, perfekt für hektische Wochentage. Mit würzigen Aromen von Knoblauch, italienischen Gewürzen und geräuchertem Paprika zaubern Sie in nur 30 Minuten ein wohlschmeckendes Abendessen, das die ganze Familie lieben wird.**
+
+
+**Zutaten:**
+- 280g Spiralnudeln
+- 500g Hackfleisch
+- 2 TL Knoblauchpulver
+- 2 TL italienische Gewürze
+- 1½ TL geräuchertes Paprika
+- ½ TL Salz
+- ½ TL schwarzer Pfeffer
+- 2 EL Mehl
+- 250ml Rinderbrühe
+- 1 Dose (400g) passierte Tomaten
+- 180ml Schlagsahne
+- 150g geriebener Bergkäse
+
+**Anweisungen:**
+
+1. Nudeln nach Packungsanweisung kochen. Abtropfen lassen und beiseite stellen.
+2. In einer großen Pfanne Hackfleisch bei mittlerer Hitze bräunen und zerkleinern, bis es durchgekocht ist. Überschüssiges Fett abgießen und Hackfleisch zurück in die Pfanne geben.
+3. Knoblauchpulver, italienische Gewürze, geräuchertes Paprika, Salz, Pfeffer und Mehl zum Hackfleisch geben. Umrühren und 1-2 Minuten kochen.
+4. Rinderbrühe und passierte Tomaten einrühren. Mischung zum Kochen bringen, dann Hitze reduzieren und 5-7 Minuten köcheln lassen, gelegentlich umrühren, bis sie leicht angedickt ist.
+5. Schlagsahne und gekochte Nudeln in die Pfanne geben. Vom Herd nehmen und geriebenen Käse einrühren, bis er geschmolzen ist.
+6. Sofort servieren für eine warme, geschmackvolle Mahlzeit.
 ---
